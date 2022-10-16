@@ -90,11 +90,6 @@ I develop programs in Python and Solidity - smart contracts, Dutch auctions, nft
 </table>
 <hr>
 
-      <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-
 ### Now I'm studying
 
 <table>
