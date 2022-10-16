@@ -83,7 +83,7 @@ I develop programs in Python and Solidity - smart contracts, Dutch auctions, nft
       </td>
       <td width="25%" align="center">
         <span><strong>Remix IDE</strong></span><br><br><br>
-        <img height="64px" src="https://yandex.ru/images/search?from=tabbar&text=remix%20ide%20icon&pos=3&img_url=http%3A%2F%2F101blockchains.com%2Fwp-content%2Fuploads%2F2021%2F05%2FRemix-1024x1021.png&rpt=simage&lr=10277.svg">
+        <img height="64px" src="https://101blockchains.com/wp-content/uploads/2021/05/Remix-1024x1021.png">
       </td>
     </tr>
   </tbody>
