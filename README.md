@@ -27,10 +27,6 @@ I develop programs in Python and Solidity - smart contracts, Dutch auctions, nft
 ---
 
 
-### Tech & Tools Preference
-
-<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"> <img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white"> <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 <table>
@@ -68,18 +64,26 @@ I develop programs in Python and Solidity - smart contracts, Dutch auctions, nft
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>Solidity</strong></span><br><br><br>
-        <img height="64px" src="https://upload.vectorlogo.zone/logos/ethereum_solidity/images/a716e883-fdc5-44ac-b5be-64e401232a50.svg">
+        <span><strong>Bootstrap</strong></span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/getbootstrap/getbootstrap-icon.svg">
       </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span><strong>Java</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
+        <span><strong>Solidity</strong></span><br><br><br>
+        <img height="64px" src="https://upload.vectorlogo.zone/logos/ethereum_solidity/images/a716e883-fdc5-44ac-b5be-64e401232a50.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>C</strong></span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/564px-The_C_Programming_Language_logo.svg.png">
+        <span><strong>Node.js</strong></span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/nodejs/nodejs-horizontal.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Hardhat</strong></span><br><br><br>
+        <img height="64px" src="https://github.com/gilbarbara/logos/blob/master/logos/hardhat-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Solidity</strong></span><br><br><br>
+        <img height="64px" src="https://upload.vectorlogo.zone/logos/ethereum_solidity/images/a716e883-fdc5-44ac-b5be-64e401232a50.svg">
       </td>
     </tr>
   </tbody>
