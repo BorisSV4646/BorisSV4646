@@ -95,7 +95,7 @@ I develop programs in Python and Solidity - smart contracts, Dutch auctions, nft
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
 
-### Other Languages I know
+### Now I'm studying
 
 <table>
   <tbody>
@@ -113,8 +113,8 @@ I develop programs in Python and Solidity - smart contracts, Dutch auctions, nft
         <img height="64px" src="https://camo.githubusercontent.com/ce087820d3e7a1b0b06911ad1adcafb5e3c5dbe267cf970f5a5f30be2d53d5c5/68747470733a2f2f676974636f696e2e636f2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032322f30372f6574686572736a732e706e67">
       </td>
       <td width="25%" align="center">
-        <span><strong>Remix IDE</strong></span><br><br><br>
-        <img height="64px" src="https://101blockchains.com/wp-content/uploads/2021/05/Remix-1024x1021.png">
+        <span><strong>Waffle IDE</strong></span><br><br><br>
+        <img height="64px" src="https://github.com/TrueFiEng/Waffle/blob/master/docs/source/logo.png">
       </td>
     </tr>
   </tbody>
