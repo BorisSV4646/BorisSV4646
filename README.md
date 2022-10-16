@@ -108,7 +108,7 @@ I develop programs in Python and Solidity - smart contracts, Dutch auctions, nft
         <img height="64px" src="https://camo.githubusercontent.com/ce087820d3e7a1b0b06911ad1adcafb5e3c5dbe267cf970f5a5f30be2d53d5c5/68747470733a2f2f676974636f696e2e636f2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032322f30372f6574686572736a732e706e67">
       </td>
       <td width="25%" align="center">
-        <span><strong>Waffle IDE</strong></span><br><br><br>
+        <span><strong>Waffle</strong></span><br><br><br>
         <img height="64px" src="https://getwaffle.io/img/logo.svg">
       </td>
     </tr>
@@ -118,9 +118,9 @@ I develop programs in Python and Solidity - smart contracts, Dutch auctions, nft
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Souravdey777&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BorisSV4646&show_icons=true&hide_border=true)
 
-Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/souravdey777)
+Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/BorisSV4646)
 
 ---
 
