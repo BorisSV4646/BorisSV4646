@@ -65,7 +65,7 @@ I develop programs in Python and Solidity - smart contracts, Dutch auctions, nft
       </td>
       <td width="25%" align="center">
         <span><strong>Bootstrap</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/getbootstrap/getbootstrap-icon.svg">
+        <img height="64px" src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg">
       </td>
     </tr>
     <tr valign="top">
@@ -82,8 +82,8 @@ I develop programs in Python and Solidity - smart contracts, Dutch auctions, nft
         <img height="64px" src="https://github.com/gilbarbara/logos/blob/master/logos/hardhat-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>Solidity</strong></span><br><br><br>
-        <img height="64px" src="https://upload.vectorlogo.zone/logos/ethereum_solidity/images/a716e883-fdc5-44ac-b5be-64e401232a50.svg">
+        <span><strong>Remix IDE</strong></span><br><br><br>
+        <img height="64px" src="https://yandex.ru/images/search?from=tabbar&text=remix%20ide%20icon&pos=3&img_url=http%3A%2F%2F101blockchains.com%2Fwp-content%2Fuploads%2F2021%2F05%2FRemix-1024x1021.png&rpt=simage&lr=10277.svg">
       </td>
     </tr>
   </tbody>
