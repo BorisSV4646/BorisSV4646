@@ -109,7 +109,7 @@ I develop programs in Python and Solidity - smart contracts, Dutch auctions, nft
       </td>
       <td width="25%" align="center">
         <span><strong>Waffle IDE</strong></span><br><br><br>
-        <img height="64px" src="">
+        <img height="64px" src="https://getwaffle.io/img/logo.svg">
       </td>
     </tr>
   </tbody>
