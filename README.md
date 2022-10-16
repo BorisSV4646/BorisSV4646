@@ -33,6 +33,24 @@ I develop programs in Python and Solidity - smart contracts, Dutch auctions, nft
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
+        <span><strong>Solidity</strong></span><br><br><br>
+        <img height="64px" src="https://upload.vectorlogo.zone/logos/ethereum_solidity/images/a716e883-fdc5-44ac-b5be-64e401232a50.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Node.js</strong></span><br><br><br>
+        <img height="64px" src="https://upload.vectorlogo.zone/logos/nodejs/images/eca9ff97-5734-46c4-b8a1-621819eaeaa9.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Hardhat</strong></span><br><br><br>
+        <img height="64px" src="https://github.com/gilbarbara/logos/blob/master/logos/hardhat-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Remix IDE</strong></span><br><br><br>
+        <img height="64px" src="https://101blockchains.com/wp-content/uploads/2021/05/Remix-1024x1021.png">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
         <span><strong>Python</strong>
         </span><br><br><br>
         <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png">
@@ -66,24 +84,6 @@ I develop programs in Python and Solidity - smart contracts, Dutch auctions, nft
       <td width="25%" align="center">
         <span><strong>Bootstrap</strong></span><br><br><br>
         <img height="64px" src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span><strong>Solidity</strong></span><br><br><br>
-        <img height="64px" src="https://upload.vectorlogo.zone/logos/ethereum_solidity/images/a716e883-fdc5-44ac-b5be-64e401232a50.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Node.js</strong></span><br><br><br>
-        <img height="64px" src="https://upload.vectorlogo.zone/logos/nodejs/images/eca9ff97-5734-46c4-b8a1-621819eaeaa9.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Hardhat</strong></span><br><br><br>
-        <img height="64px" src="https://github.com/gilbarbara/logos/blob/master/logos/hardhat-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Remix IDE</strong></span><br><br><br>
-        <img height="64px" src="https://101blockchains.com/wp-content/uploads/2021/05/Remix-1024x1021.png">
       </td>
     </tr>
   </tbody>
