@@ -75,7 +75,7 @@ I develop programs in Python and Solidity - smart contracts, Dutch auctions, nft
       </td>
       <td width="25%" align="center">
         <span><strong>Node.js</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/nodejs/nodejs-icon.svg">
+        <img height="64px" src="https://upload.vectorlogo.zone/logos/nodejs/images/eca9ff97-5734-46c4-b8a1-621819eaeaa9.svg">
       </td>
       <td width="25%" align="center">
         <span><strong>Hardhat</strong></span><br><br><br>
