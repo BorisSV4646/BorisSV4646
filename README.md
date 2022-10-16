@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://github.com/BorisSV4646/BorisSV4646/blob/main/Card%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
 I develop programs in Python and Solidity - smart contracts, Dutch auctions, nft collections. I am very interested in the field of web3 and decentralized finance.. :wink:
