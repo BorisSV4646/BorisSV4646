@@ -8,17 +8,17 @@
 
 I develop programs in Python and Solidity - smart contracts, Dutch auctions, nft collections. I am very interested in the field of web3 and decentralized finance.. :wink:
  
- 🔭 I’m planning for a Project **Vision: ML-based System for Blinds**.
+ 🔭 I’m planning for a Project **Social NFT coolection: paintings doctors of the hospital covid-19**.
  
- 🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Google Cloud Platform
+ 🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Javascript and Web3.js
  
  :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/>
  
- 👯 I’m looking to collaborate for a Flutter and ML-based project **Doc App**.
+ 👯 I am looking for cooperation to create applications in the field of **Web3** and **Blockchain**.
  
- 🤔 I’m looking for help with [Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs).
+ 🤔 I’m looking for help with creation of smart contracts for nft collections and tokens.
  
- 💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff.
+ 💬 Ask me about Solidity, Blockchain, and any Tech-related stuff.
 
 
 ![Profile views](https://gpvc.arturio.dev/BorisSV4646)  <img src="https://img.shields.io/github/followers/BorisSV4646?label=Follow" style=" float:left, margin-right:10px" />
