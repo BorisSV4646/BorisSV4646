@@ -10,9 +10,9 @@ I develop programs in Python and Solidity - smart contracts, Dutch auctions, nft
  
  🔭 I’m planning for a Project **Social NFT coolection: paintings doctors of the hospital covid-19**.
  
- 🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Javascript and Web3.js
+ 🌱 I’m currently learning **Javascript** and **Web3.js**.
  
- :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/>
+ :books: I want to learn **Ether.js** and **Waffle**.
  
  👯 I am looking for cooperation to create applications in the field of **Web3** and **Blockchain**.
  
