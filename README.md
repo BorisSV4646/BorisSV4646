@@ -130,21 +130,9 @@ I develop programs in Python and Solidity - smart contracts, Dutch auctions, nft
 ---
 
 ### You can find in me in the web 🌍
-[![Gmail Badge](https://img.shields.io/badge/-sdey9@uic.edu-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:respectboris4646@gmail.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-Samujjwaal%20Dey-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%D0%B1%D0%BE%D1%80%D0%B8%D1%81-%D0%B2%D0%B8%D0%BD%D0%BD%D0%B8%D0%BA-8aa366bb/ "Connect on LinkedIn")
-[![Telegram Badge](https://img.shields.io/badge/-@daftdey-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/daftdey "Contact on Telegram")
-[![Twitter Badge](https://img.shields.io/badge/-@samujjwaal-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=samujjwaal "Follow on Twitter")
-[![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/samujjwaal "Connect on Facebook")
-
+[<img src="./svg/telegram.svg">](https://t.me/VinnikBoris)
+[<img src="./svg/gmail.svg" width="90px" height="90px">](mailto:respectboris4646@gmail.com)
+[<img src="./svg/Linkedin.svg">](https://www.linkedin.com/in/%D0%B1%D0%BE%D1%80%D0%B8%D1%81-%D0%B2%D0%B8%D0%BD%D0%BD%D0%B8%D0%BA-8aa366bb/)
 
 
 Let's connect 👨‍💻 and forge the future together.😁✌
-
-**Check the Repositories and don't forget to give a star.** 👇
-
-[website]: https://souravdey777.github.io/Portfolio/
-[twitter]: https://twitter.com/Souravdey777
-[youtube]: https://youtube.com/
-[instagram]: https://www.instagram.com/souravdey777/
-[linkedin]: https://www.linkedin.com/in/sourav-dey/
-[medium]: https://medium.com/@Souravdey777/
