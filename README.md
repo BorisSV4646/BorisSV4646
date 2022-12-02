@@ -8,7 +8,7 @@
 
 I develop programs in Python and Solidity - smart contracts, Dutch auctions, nft collections. I am very interested in the field of web3 and decentralized finance.. :wink:
  
- 🔭 I’m planning for a Project **Social NFT coolection: paintings doctors of the hospital covid-19**.
+ 🔭 I’m planning for a Project **Social NFT collection: paintings doctors of the hospital covid-19**.
  
  🌱 I’m currently learning **Javascript** and **Web3.js**.
  
