@@ -6,22 +6,21 @@
   <img src="https://github.com/BorisSV4646/BorisSV4646/blob/main/Card%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-I develop programs in Python and Solidity - smart contracts, Dutch auctions, nft collections. I am very interested in the field of web3 and decentralized finance.. :wink:
- 
- 🔭 I’m planning for a Project **Social NFT collection: paintings doctors of the hospital covid-19**.
- 
- 🌱 I’m currently learning **Javascript** and **Web3.js**.
- 
- :books: I want to learn **Ether.js** and **Waffle**.
- 
- 👯 I am looking for cooperation to create applications in the field of **Web3** and **Blockchain**.
- 
- 🤔 I’m looking for help with creation of smart contracts for nft collections and tokens.
- 
- 💬 Ask me about Solidity, Blockchain, and any Tech-related stuff.
+Hello! I'm a passionate developer with expertise in Solidity and JavaScript. My experience spans across creating smart contracts Staking platforms, Decentralized exchanges, Card games on the blockchain, Dutch auctions, ERC20, ERC721, ERC1155, White sheet based on the Merkle tree. I have experience working with L2 networks. My enthusiasm for the web3 domain and decentralized finance is unparalleled. 😉
+
+🔭 I am currently preparing for an exciting project: creating an abstraction of a wallet based on our platform, where users will be able to register using only an email and a phone number.
+
+🌱 While I have a solid grasp of Solidity, JavaScript and Web3.js, I'm always on the lookout for new learning opportunities. My current focus is on mastering Ether.js and L0 networks to further enhance my skills in the decentralized space.
+
+👯 Collaboration is the key to innovation, and I am actively looking for partners to develop innovative applications in the field of Web 3 and blockchain. If you are interested in the abstraction of wallets and L0 networks, let's create an application together.
+
+💬 Got questions? Feel free to ask me anything related to Solidity, Blockchain, or any tech-centric topic. I'm here to help and share my knowledge!
+
+🤔 Let me know if you'd like any changes or additions!
 
 
-![Profile views](https://gpvc.arturio.dev/BorisSV4646)  <img src="https://img.shields.io/github/followers/BorisSV4646?label=Follow" style=" float:left, margin-right:10px" />
+
+![Profile views]  <img src="https://img.shields.io/github/followers/BorisSV4646?label=Follow" style=" float:left, margin-right:10px" />
 
 
 ---
