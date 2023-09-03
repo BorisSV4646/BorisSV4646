@@ -36,26 +36,52 @@ Hello! I'm a passionate developer with expertise in Solidity and JavaScript. My 
         <img height="64px" src="https://upload.vectorlogo.zone/logos/ethereum_solidity/images/a716e883-fdc5-44ac-b5be-64e401232a50.svg">
       </td>
       <td width="25%" align="center">
+        <span><strong>Hardhat</strong></span><br><br><br>
+        <img height="64px" src="https://github.com/gilbarbara/logos/blob/main/logos/hardhat-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Waffle</strong></span><br><br><br>
+        <img height="64px" src="https://getwaffle.io/img/logo.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Remix IDE</strong></span><br><br><br>
+        <img height="64px" src="https://101blockchains.com/wp-content/uploads/2021/05/Remix-1024x1021.png">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
         <span><strong>Javascript</strong></span><br><br><br>
         <img height="64px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Web3.js</strong></span><br><br><br>
+        <img height="64px" src="https://github.com/web3/web3.js/blob/1.x/assets/logo/web3js.jpg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Ethers.js</strong></span><br><br><br>
+        <img height="64px" src="https://github.com/gilbarbara/logos/blob/main/logos/ethers.svg">
       </td>
       <td width="25%" align="center">
         <span><strong>Node.js</strong></span><br><br><br>
         <img height="64px" src="https://upload.vectorlogo.zone/logos/nodejs/images/eca9ff97-5734-46c4-b8a1-621819eaeaa9.svg">
       </td>
-      <td width="25%" align="center">
-        <span><strong>MongoDB</strong></span><br><br><br>
-        <img height="64px" src="https://github.com/gilbarbara/logos/blob/main/logos/mongodb-icon.svg">
-      </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span><strong>Hardhat</strong></span><br><br><br>
-        <img height="64px" src="https://github.com/gilbarbara/logos/blob/main/logos/hardhat-icon.svg">
+        <span><strong>MongoDB</strong></span><br><br><br>
+        <img height="64px" src="https://github.com/gilbarbara/logos/blob/main/logos/mongodb-icon.svg">
+      </td>    
+      <td width="25%" align="center">
+        <span>𝗚𝗶𝘁</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>Remix IDE</strong></span><br><br><br>
-        <img height="64px" src="https://101blockchains.com/wp-content/uploads/2021/05/Remix-1024x1021.png">
+        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Bootstrap</strong></span><br><br><br>
+        <img height="64px" src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg">
       </td>
       <td width="25%" align="center">
         <span><strong>Python</strong>
@@ -69,21 +95,6 @@ Hello! I'm a passionate developer with expertise in Solidity and JavaScript. My 
       <td width="25%" align="center">
         <span>𝗖𝗦𝗦𝟯</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Bootstrap</strong></span><br><br><br>
-        <img height="64px" src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg">
       </td>
     </tr>
   </tbody>
@@ -105,7 +116,7 @@ Hello! I'm a passionate developer with expertise in Solidity and JavaScript. My 
       </td>
       <td width="25%" align="center">
         <span><strong>Ethers.js</strong></span><br><br><br>
-        <img height="64px" src="https://camo.githubusercontent.com/ce087820d3e7a1b0b06911ad1adcafb5e3c5dbe267cf970f5a5f30be2d53d5c5/68747470733a2f2f676974636f696e2e636f2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032322f30372f6574686572736a732e706e67">
+        <img height="64px" src="https://github.com/gilbarbara/logos/blob/main/logos/ethers.svg">
       </td>
       <td width="25%" align="center">
         <span><strong>Waffle</strong></span><br><br><br>
