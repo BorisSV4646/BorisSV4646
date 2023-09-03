@@ -36,12 +36,20 @@ Hello! I'm a passionate developer with expertise in Solidity and JavaScript. My 
         <img height="64px" src="https://upload.vectorlogo.zone/logos/ethereum_solidity/images/a716e883-fdc5-44ac-b5be-64e401232a50.svg">
       </td>
       <td width="25%" align="center">
+        <span><strong>Javascript</strong></span><br><br><br>
+        <img height="64px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg">
+      </td>
+      <td width="25%" align="center">
         <span><strong>Node.js</strong></span><br><br><br>
         <img height="64px" src="https://upload.vectorlogo.zone/logos/nodejs/images/eca9ff97-5734-46c4-b8a1-621819eaeaa9.svg">
       </td>
       <td width="25%" align="center">
+        <span><strong>MongoDB</strong></span><br><br><br>
+        <img height="64px" src="https://github.com/gilbarbara/logos/blob/main/logos/mongodb-icon.svg">
+      </td>
+      <td width="25%" align="center">
         <span><strong>Hardhat</strong></span><br><br><br>
-        <img height="64px" src="https://github.com/gilbarbara/logos/blob/master/logos/hardhat-icon.svg">
+        <img height="64px" src="https://github.com/gilbarbara/logos/blob/main/logos/hardhat-icon.svg">
       </td>
       <td width="25%" align="center">
         <span><strong>Remix IDE</strong></span><br><br><br>
@@ -54,10 +62,6 @@ Hello! I'm a passionate developer with expertise in Solidity and JavaScript. My 
         </span><br><br><br>
         <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png">
       <td width="25%" align="center">
-        <span><strong>Django</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg">
-      </td>
-      <td width="25%" align="center">
         <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
@@ -67,10 +71,6 @@ Hello! I'm a passionate developer with expertise in Solidity and JavaScript. My 
       </td>
     </tr>
     <tr valign="top">
-      <td width="25%" align="center">
-        <span><strong>MySql</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
-      </td>
       </td>
       <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
