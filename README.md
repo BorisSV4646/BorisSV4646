@@ -20,7 +20,7 @@ Hello! I'm a passionate developer with expertise in Solidity and JavaScript. My 
 
 
 
-![Profile views]  <img src="https://img.shields.io/github/followers/BorisSV4646?label=Follow" style=" float:left, margin-right:10px" />
+<img src="https://img.shields.io/github/followers/BorisSV4646?label=Follow" style=" float:left, margin-right:10px" />
 
 
 ---
