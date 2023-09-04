@@ -113,20 +113,16 @@ Hello! I'm a passionate developer with expertise in Solidity and JavaScript. My 
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span><strong>Javascript</strong></span><br><br><br>
-        <img height="64px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg">
+        <span><strong>Typescript</strong></span><br><br><br>
+        <img height="64px" src="https://github.com/gilbarbara/logos/blob/main/logos/typescript-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>Web3.js</strong></span><br><br><br>
-        <img height="64px" src="https://github.com/web3/web3.js/blob/1.x/assets/logo/web3js.jpg">
+        <span><strong>Docker</strong></span><br><br><br>
+        <img height="64px" src="https://github.com/gilbarbara/logos/blob/main/logos/docker-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>Ethers.js</strong></span><br><br><br>
-        <img height="64px" src="https://github.com/gilbarbara/logos/blob/main/logos/ethers.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Waffle</strong></span><br><br><br>
-        <img height="64px" src="https://getwaffle.io/img/logo.svg">
+        <span><strong>React</strong></span><br><br><br>
+        <img height="64px" src="https://github.com/gilbarbara/logos/blob/main/logos/react.svg">
       </td>
     </tr>
   </tbody>
@@ -150,6 +146,7 @@ Hello! I'm a passionate developer with expertise in Solidity and JavaScript. My 
 [<img src="./svg/telegram.svg">](https://t.me/VinnikBoris)
 [<img src="./svg/gmail.svg" width="90px" height="90px">](mailto:respectboris4646@gmail.com)
 [<img src="./svg/Linkedin.svg">](https://www.linkedin.com/in/%D0%B1%D0%BE%D1%80%D0%B8%D1%81-%D0%B2%D0%B8%D0%BD%D0%BD%D0%B8%D0%BA-8aa366bb/)
+[<img src="https://github.com/gilbarbara/logos/blob/main/logos/facebook.svg">](https://www.facebook.com/boris.vinnik/)
 
 
 Let's connect 👨‍💻 and forge the future together.😁✌
