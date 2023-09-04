@@ -146,7 +146,8 @@ Hello! I'm a passionate developer with expertise in Solidity and JavaScript. My 
 [<img src="./svg/telegram.svg">](https://t.me/VinnikBoris)
 [<img src="./svg/gmail.svg" width="90px" height="90px">](mailto:respectboris4646@gmail.com)
 [<img src="./svg/Linkedin.svg">](https://www.linkedin.com/in/%D0%B1%D0%BE%D1%80%D0%B8%D1%81-%D0%B2%D0%B8%D0%BD%D0%BD%D0%B8%D0%BA-8aa366bb/)
+<td width="25%" align="center">
 [<img src="https://github.com/gilbarbara/logos/blob/main/logos/facebook.svg">](https://www.facebook.com/boris.vinnik/)
-
+</td>
 
 Let's connect 👨‍💻 and forge the future together.😁✌
