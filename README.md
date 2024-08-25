@@ -37,7 +37,7 @@ Hello! I'm a passionate developer with expertise in Solidity and JavaScript. My 
       </td>
       <td width="25%" align="center">
         <span><strong>TypeScript</strong></span><br><br><br>
-        <img height="64px" src="https://upload.vectorlogo.zone/logos/ethereum_solidity/images/a716e883-fdc5-44ac-b5be-64e401232a50.svg">
+        <img height="64px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
       </td>
       <td width="25%" align="center">
         <span><strong>Hardhat</strong></span><br><br><br>
