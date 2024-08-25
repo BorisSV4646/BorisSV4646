@@ -47,6 +47,8 @@ Hello! I'm a passionate developer with expertise in Solidity and JavaScript. My 
         <span><strong>PHP</strong></span><br><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/php/php-icon.svg">
       </td>
+    </tr>
+    <tr valign="top">
       <td width="25%" align="center">
         <span><strong>Nest JS</strong></span><br><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg">
