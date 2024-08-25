@@ -112,8 +112,8 @@ Hello! I'm a passionate developer with expertise in Solidity and JavaScript. My 
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span><strong>Typescript</strong></span><br><br><br>
-        <img height="64px" src="https://github.com/gilbarbara/logos/blob/main/logos/typescript-icon.svg">
+        <span><strong>Kubernetes</strong></span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg">
       </td>
       <td width="25%" align="center">
         <span><strong>Docker</strong></span><br><br><br>
