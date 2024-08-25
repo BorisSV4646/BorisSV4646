@@ -6,9 +6,9 @@
   <img src="https://github.com/BorisSV4646/BorisSV4646/blob/main/Card%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-Blockchain Backend Developer | Solidity, TypeScript, and Rust Specialist
+### Blockchain Backend Developer | Solidity, TypeScript, and Rust Specialist
 
-With a passion for building secure, efficient, and scalable decentralized applications, I specialize in blockchain backend development using a diverse and robust tech stack. My core expertise lies in Solidity, TypeScript, and Rust, enabling me to develop smart contracts, decentralized applications (dApps), and backend systems that are both resilient and performant.
+With a passion for building secure, efficient, and scalable decentralized applications, I specialize in blockchain backend development using a diverse and robust tech stack. My core expertise lies in # Solidity, # TypeScript, and # Rust, enabling me to develop smart contracts, decentralized applications (dApps), and backend systems that are both resilient and performant.
 
 Technologies and Tools:
 Solidity: I design and implement smart contracts with a focus on security and efficiency, ensuring that decentralized applications (dApps) run smoothly on the Ethereum blockchain.
