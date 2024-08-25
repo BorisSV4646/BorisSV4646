@@ -40,6 +40,10 @@ Hello! I'm a passionate developer with expertise in Solidity and JavaScript. My 
         <img height="64px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
       </td>
       <td width="25%" align="center">
+        <span><strong>Nest JS</strong></span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg">
+      </td>
+      <td width="25%" align="center">
         <span><strong>Hardhat</strong></span><br><br><br>
         <img height="64px" src="https://github.com/gilbarbara/logos/blob/main/logos/hardhat-icon.svg">
       </td>
