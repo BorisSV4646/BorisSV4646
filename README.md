@@ -40,6 +40,14 @@ Hello! I'm a passionate developer with expertise in Solidity and JavaScript. My 
         <img height="64px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
       </td>
       <td width="25%" align="center">
+        <span><strong>Rust</strong></span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>PHP</strong></span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/php/php-icon.svg">
+      </td>
+      <td width="25%" align="center">
         <span><strong>Nest JS</strong></span><br><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg">
       </td>
