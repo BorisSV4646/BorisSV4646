@@ -50,6 +50,10 @@ Hello! I'm a passionate developer with expertise in Solidity and JavaScript. My 
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
+        <span><strong>Node.js</strong></span><br><br><br>
+        <img height="64px" src="https://upload.vectorlogo.zone/logos/nodejs/images/eca9ff97-5734-46c4-b8a1-621819eaeaa9.svg">
+      </td>
+      <td width="25%" align="center">
         <span><strong>Nest JS</strong></span><br><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg">
       </td>
@@ -60,10 +64,6 @@ Hello! I'm a passionate developer with expertise in Solidity and JavaScript. My 
       <td width="25%" align="center">
         <span><strong>Waffle</strong></span><br><br><br>
         <img height="64px" src="https://getwaffle.io/img/logo.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Remix IDE</strong></span><br><br><br>
-        <img height="64px" src="https://101blockchains.com/wp-content/uploads/2021/05/Remix-1024x1021.png">
       </td>
     </tr>
     <tr valign="top">
@@ -102,25 +102,6 @@ Hello! I'm a passionate developer with expertise in Solidity and JavaScript. My 
         <img height="64px" src="https://github.com/gilbarbara/logos/blob/main/logos/open-zeppelin-icon.svg">
       </td>
       </tr>
-      <tr valign="top">
-      <td width="25%" align="center">
-        <span><strong>Python</strong>
-        </span><br><br><br>
-        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Bootstrap</strong></span><br><br><br>
-        <img height="64px" src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-    </tr>
   </tbody>
 </table>
 <hr>
