@@ -88,18 +88,18 @@ Hello! I'm a passionate developer with expertise in Solidity and JavaScript. My 
       <td width="25%" align="center">
         <span><strong>MongoDB</strong></span><br><br><br>
         <img height="64px" src="https://github.com/gilbarbara/logos/blob/main/logos/mongodb-icon.svg">
-      </td>    
-      <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="25%" align="center">
         <span>Postgresql</span><br><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>Open Zeppelin</span><br><br><br>
-        <img height="64px" src="https://github.com/gilbarbara/logos/blob/main/logos/open-zeppelin-icon.svg">
+        <span>𝗚𝗶𝘁</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Docker</strong></span><br><br><br>
+        <img height="64px" src="https://github.com/gilbarbara/logos/blob/main/logos/docker-icon.svg">
       </td>
       </tr>
   </tbody>
