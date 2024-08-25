@@ -94,8 +94,8 @@ Hello! I'm a passionate developer with expertise in Solidity and JavaScript. My 
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>GraphQL</span><br><br><br>
-        <img height="64px" src="https://github.com/gilbarbara/logos/blob/main/logos/graphql.svg">
+        <span>Postgresql</span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">
       </td>
       <td width="25%" align="center">
         <span>Open Zeppelin</span><br><br><br>
