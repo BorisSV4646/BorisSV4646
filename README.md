@@ -6,18 +6,34 @@
   <img src="https://github.com/BorisSV4646/BorisSV4646/blob/main/Card%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-Hello! I'm a passionate developer with expertise in Solidity and JavaScript. My experience spans across creating smart contracts Staking platforms, Decentralized exchanges, Card games on the blockchain, Dutch auctions, ERC20, ERC721, ERC1155, White sheet based on the Merkle tree. I have experience working with L2 networks. My enthusiasm for the web3 domain and decentralized finance is unparalleled. 😉
+Blockchain Backend Developer | Solidity, TypeScript, and Rust Specialist
 
-🔭 I am currently preparing for an exciting project: creating an abstraction of a wallet based on our platform, where users will be able to register using only an email and a phone number.
+With a passion for building secure, efficient, and scalable decentralized applications, I specialize in blockchain backend development using a diverse and robust tech stack. My core expertise lies in Solidity, TypeScript, and Rust, enabling me to develop smart contracts, decentralized applications (dApps), and backend systems that are both resilient and performant.
 
-🌱 While I have a solid grasp of Solidity, JavaScript and Web3.js, I'm always on the lookout for new learning opportunities. My current focus is on mastering Ether.js and L0 networks to further enhance my skills in the decentralized space.
+Technologies and Tools:
+Solidity: I design and implement smart contracts with a focus on security and efficiency, ensuring that decentralized applications (dApps) run smoothly on the Ethereum blockchain.
 
-👯 Collaboration is the key to innovation, and I am actively looking for partners to develop innovative applications in the field of Web 3 and blockchain. If you are interested in the abstraction of wallets and L0 networks, let's create an application together.
+TypeScript & Node.js: Leveraging TypeScript for its strong typing and scalability, I build robust backend services with Node.js, ensuring fast and reliable application performance.
 
-💬 Got questions? Feel free to ask me anything related to Solidity, Blockchain, or any tech-centric topic. I'm here to help and share my knowledge!
+Rust: My knowledge of Rust allows me to develop high-performance, memory-safe applications, particularly in the blockchain and systems programming space.
 
-🤔 Let me know if you'd like any changes or additions!
+NestJS: I utilize NestJS to create scalable, maintainable server-side applications, providing a solid framework for building efficient, enterprise-grade backend services.
 
+Hardhat & Waffle: I employ Hardhat and Waffle for developing, testing, and deploying smart contracts, ensuring they meet the highest standards before being deployed to the blockchain.
+
+Ethers.js & OpenZeppelin: With Ethers.js, I interact with the Ethereum blockchain efficiently, while OpenZeppelin provides a solid foundation of secure, community-vetted smart contracts to build upon.
+
+GraphQL: I design and implement flexible and efficient APIs using GraphQL, enabling seamless and efficient data retrieval in my applications.
+
+Redis: I integrate Redis for caching and real-time data processing, enhancing application speed and performance.
+
+Databases (MongoDB & PostgreSQL): Depending on the requirements, I utilize MongoDB for flexible, document-based storage, and PostgreSQL for complex relational data, ensuring optimal data management solutions.
+
+DevOps (Docker & Git): I manage development environments and streamline deployment processes using Docker, while Git enables effective version control and collaboration.
+
+Cloud and DevOps:
+Cloud Services: My cloud expertise includes deploying and managing applications across various cloud platforms, ensuring they are scalable, secure, and reliable.
+By combining these technologies, I deliver comprehensive blockchain solutions that address real-world problems, ensuring that my projects are not only technically sound but also deliver tangible value to users. I am committed to continuous learning and improvement, always staying on the cutting edge of technology to provide the best solutions possible.
 
 
 <img src="https://img.shields.io/github/followers/BorisSV4646?label=Follow" style=" float:left, margin-right:10px" />
