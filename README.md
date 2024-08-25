@@ -1,8 +1,8 @@
-### Hey Boris here 👋
+# Hey Boris here 👋
 
 ---
 
-# Blockchain and Backend Developer | Solidity, TypeScript, and Rust Specialist
+## Blockchain and Backend Developer | Solidity, TypeScript, and Rust Specialist
 With a passion for building secure, efficient, and scalable decentralized applications, I specialize in blockchain backend development using a diverse and robust tech stack. My core expertise lies in Solidity, TypeScript, and Rust, enabling me to develop smart contracts, decentralized applications (dApps), and backend systems that are both resilient and performant.
 
 ## Technologies and Tools:
