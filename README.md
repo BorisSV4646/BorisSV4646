@@ -115,14 +115,6 @@ Hello! I'm a passionate developer with expertise in Solidity and JavaScript. My 
         <span><strong>Kubernetes</strong></span><br><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg">
       </td>
-      <td width="25%" align="center">
-        <span><strong>Docker</strong></span><br><br><br>
-        <img height="64px" src="https://github.com/gilbarbara/logos/blob/main/logos/docker-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>React</strong></span><br><br><br>
-        <img height="64px" src="https://github.com/gilbarbara/logos/blob/main/logos/react.svg">
-      </td>
     </tr>
   </tbody>
 </table>
