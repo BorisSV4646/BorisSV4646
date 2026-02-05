@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" fill="none">
+  <style>
+    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #2f80ed; }
+    .stat { font: 400 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #434d58; }
+  </style>
+  <rect width="495" height="195" rx="4.5" fill="#fffefe" stroke="#e4e2e2" stroke-width="1"/>
+  <text x="25" y="35" class="header">BorisSV4646's GitHub Stats</text>
+  <text x="25" y="70" class="stat">Loading stats...</text>
+  <text x="25" y="95" class="stat">GitHub Actions will update this automatically</text>
+</svg>
