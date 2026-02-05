@@ -144,6 +144,14 @@ By combining these technologies, I deliver comprehensive blockchain solutions th
 
 ---
 
+<div align="center">
+	<table>
+		<tr>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rust.png" alt="Rust" title="Rust"/></code></td>
+		</tr>
+	</table>
+</div>
+
 ## GitHub Activity Graph
 
 [![Boris's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BorisSV4646&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
