@@ -125,7 +125,8 @@ By combining these technologies, I deliver comprehensive blockchain solutions th
 <hr>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=BorisSV4646)](https://git.io/streak-stats)
+markdown
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
