@@ -58,10 +58,6 @@ By combining these technologies, I deliver comprehensive blockchain solutions th
 
 [![Boris's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BorisSV4646&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
-## GitHub Readme Stats
-
-![Stats](./profile/stats.svg?cache=bust)
-
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 <table>
