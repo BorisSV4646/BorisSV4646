@@ -56,83 +56,12 @@ By combining these technologies, I deliver comprehensive blockchain solutions th
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span><strong>Solidity</strong></span><br><br><br>
-        <img height="64px" src="https://upload.vectorlogo.zone/logos/ethereum_solidity/images/a716e883-fdc5-44ac-b5be-64e401232a50.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>TypeScript</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Rust</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>PHP</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/php/php-icon.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span><strong>Node.js</strong></span><br><br><br>
-        <img height="64px" src="https://upload.vectorlogo.zone/logos/nodejs/images/eca9ff97-5734-46c4-b8a1-621819eaeaa9.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Nest JS</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Hardhat</strong></span><br><br><br>
-        <img height="64px" src="https://github.com/gilbarbara/logos/blob/main/logos/hardhat-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Waffle</strong></span><br><br><br>
-        <img height="64px" src="https://getwaffle.io/img/logo.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span><strong>Ethers.js</strong></span><br><br><br>
-        <img height="64px" src="https://github.com/gilbarbara/logos/blob/main/logos/ethers.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Open Zeppelin</span><br><br><br>
-        <img height="64px" src="https://github.com/gilbarbara/logos/blob/main/logos/open-zeppelin-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>GraphQL</span><br><br><br>
-        <img height="64px" src="https://github.com/gilbarbara/logos/blob/main/logos/graphql.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Redis</span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span><strong>MongoDB</strong></span><br><br><br>
-        <img height="64px" src="https://github.com/gilbarbara/logos/blob/main/logos/mongodb-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Postgresql</span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Docker</strong></span><br><br><br>
-        <img height="64px" src="https://github.com/gilbarbara/logos/blob/main/logos/docker-icon.svg">
-      </td>
-      </tr>
-  </tbody>
-</table>
-<hr>
+<div align="center">
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png" alt="php" title="php"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rust.png" alt="Rust" title="Rust"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/solidity.png" alt="Solidity" title="Solidity"/></code>
+</div>
 
 ---
 
@@ -143,12 +72,6 @@ By combining these technologies, I deliver comprehensive blockchain solutions th
 [<img src="./svg/Linkedin.svg">](https://www.linkedin.com/in/borisvinnik/)
 
 ---
-
-<div align="center">
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rust.png" alt="Rust" title="Rust"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/solidity.png" alt="Solidity" title="Solidity"/></code>
-</div>
 
 ## GitHub Activity Graph
 
