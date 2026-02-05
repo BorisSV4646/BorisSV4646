@@ -67,14 +67,6 @@ By combining these technologies, I deliver comprehensive blockchain solutions th
 
 ---
 
-### You can find in me in the web 🌍
-
-[<img src="./svg/telegram.svg">](https://t.me/VinnikBoris)
-[<img src="./svg/gmail.svg" width="90px" height="90px">](mailto:respectboris4646@gmail.com)
-[<img src="./svg/Linkedin.svg">](https://www.linkedin.com/in/borisvinnik/)
-
----
-
 ## GitHub Activity Graph
 
 [![Boris's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BorisSV4646&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
