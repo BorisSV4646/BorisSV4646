@@ -125,7 +125,7 @@ By combining these technologies, I deliver comprehensive blockchain solutions th
 <hr>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=BorisSV4646)](https://git.io/streak-stats)
 
 ---
 
