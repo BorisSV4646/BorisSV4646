@@ -60,7 +60,7 @@ By combining these technologies, I deliver comprehensive blockchain solutions th
 
 ## GitHub Readme Stats
 
-[![Boris's GitHub stats](https://github-readme-stats.vercel.app/api?username=BorisSV4646&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Boris's GitHub stats](https://github-readme-stats.vercel.app/api?username=BorisSV4646&show_icons=true&theme=github_dark&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
