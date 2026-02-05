@@ -60,7 +60,7 @@ By combining these technologies, I deliver comprehensive blockchain solutions th
 
 ## GitHub Readme Stats
 
-![Stats](https://raw.githubusercontent.com/BorisSV4646/BorisSV4646/main/profile/stats.svg)
+![Stats](./profile/stats.svg?cache=bust)
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
