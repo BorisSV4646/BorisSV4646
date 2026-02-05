@@ -124,36 +124,9 @@ By combining these technologies, I deliver comprehensive blockchain solutions th
 </table>
 <hr>
 
-### Now I'm studying
-
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span><strong>Kubernetes</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
-<hr>
-
----
-
-<div>
-<a href="https://github-readme-stats.vercel.app/api?username=BorisSV4646&hide=contribs&show_icons=true&theme=dark">
-  <img  align="center" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=BorisSV4646&hide=contribs&show_icons=true&theme=dark" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=BorisSV4646&layout=compact&theme=dark">
-  <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BorisSV4646&layout=compact&theme=dark" />
-</a>
-</div>
-
 ---
 
 ### You can find in me in the web 🌍
 [<img src="./svg/telegram.svg">](https://t.me/VinnikBoris)
 [<img src="./svg/gmail.svg" width="90px" height="90px">](mailto:respectboris4646@gmail.com)
-[<img src="./svg/Linkedin.svg">](https://www.linkedin.com/in/%D0%B1%D0%BE%D1%80%D0%B8%D1%81-%D0%B2%D0%B8%D0%BD%D0%BD%D0%B8%D0%BA-8aa366bb/)
-
-Let's connect 👨‍💻 and forge the future together.😁✌
+[<img src="./svg/Linkedin.svg">](https://www.linkedin.com/in/borisvinnik/)
