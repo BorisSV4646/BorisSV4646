@@ -54,7 +54,7 @@ By combining these technologies, I deliver comprehensive blockchain solutions th
 
 ---
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## My tech stack
 
 ### Languages
 
