@@ -42,14 +42,6 @@ Depending on the requirements, I utilize MongoDB for flexible, document-based st
 
 I manage development environments and streamline deployment processes using Docker, while Git enables effective version control and collaboration.
 
-## Cloud and DevOps:
-
-### Cloud Services:
-
-My cloud expertise includes deploying and managing applications across various cloud platforms, ensuring they are scalable, secure, and reliable.
-
-By combining these technologies, I deliver comprehensive blockchain solutions that address real-world problems, ensuring that my projects are not only technically sound but also deliver tangible value to users. I am committed to continuous learning and improvement, always staying on the cutting edge of technology to provide the best solutions possible.
-
 <img src="https://img.shields.io/github/followers/BorisSV4646?label=Follow" style=" float:left, margin-right:10px" />
 
 ---
