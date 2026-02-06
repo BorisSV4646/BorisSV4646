@@ -4,11 +4,11 @@ Hello everyone. My name is Boris, I am a blockchain and backend developer. He pa
 
 ## 📌 Previously, I served as:
 
-Rust and Backend developer in Ordeez. Built smart contracts and Bitcoin integration on Arch (20k+ tx/contract), multi-wallet support, NFT credit and staking (5M USDT), and an arbitration bot (3M USDC) with oracle and Hyperliquid routing.
+**Rust and Backend developer in Ordeez**: built smart contracts and Bitcoin integration on Arch (20k+ tx/contract), multi-wallet support, NFT credit and staking (5M USDT), and an arbitration bot (3M USDC) with oracle and Hyperliquid routing.
 
-Head Solidity and Backend developer in Algoritmiclab. Developed the Gasallin referral platform on the BNB Chain (smart contracts for tokens, platforms and teams with a combined turnover of >13 million USDT, a system for registering and distributing rewards for 2,500+ users, authorization through message signing and JWT for ~10 types of wallets, level purchase/reactivation contracts, team creation and a TG bot for 500+ active users), as well as the Stalwart blockchain ecosystem (architecture, proprietary blockchain based on the Cosmos SDK with AI elements, the EVM Stalwart bridge and integration with Solidity/DeFi pools).
+**Head Solidity and Backend developer in Algoritmiclab**: developed the Gasallin referral platform on the BNB Chain (smart contracts for tokens, platforms and teams with a combined turnover of >13 million USDT, a system for registering and distributing rewards for 2,500+ users, authorization through message signing and JWT for ~10 types of wallets, level purchase/reactivation contracts, team creation and a TG bot for 500+ active users), as well as the Stalwart blockchain ecosystem (architecture, proprietary blockchain based on the Cosmos SDK with AI elements, the EVM Stalwart bridge and integration with Solidity/DeFi pools).
 
-Backend developer in Avezor. Designed and scaled the architecture of the platform to work in 17 countries, created and optimized a database for 300,000 properties with fast search, integrated a cryptographic payment system, developed and implemented smart contracts to automate transactions (rent/purchase and sale), implemented an API for integration with external services and developed a multilingual interface with localization for international the audience.
+**Backend developer in Avezor**: designed and scaled the architecture of the platform to work in 17 countries, created and optimized a database for 300,000 properties with fast search, integrated a cryptographic payment system, developed and implemented smart contracts to automate transactions (rent/purchase and sale), implemented an API for integration with external services and developed a multilingual interface with localization for international the audience.
 
 ## 💡 Skills:
 
@@ -19,6 +19,12 @@ Backend developer in Avezor. Designed and scaled the architecture of the platfor
 **Backend & infra:** TypeScript/Node.js, NestJS, APIs, DB design and optimization (300k+ records), crypto payments, localization and scaling for multi-region platforms.
 
 ## 📂 Portfolio:
+
+[Ordeez](https://ordeez.io/) - a decentralized liquidity protocol for Bitcoin that allows users to stake BTC and earn passive income through loan and lending mechanisms. The project is based on the Arch Network (Bitcoin L2) and provides secure asset management with support for Bitcoin wallets.
+
+[We Have Music](https://wehavemusic.ru/) - an online platform for listening to and managing music content. Provides tokenization and copyright management.
+
+[Avezor](https://avezor.ge/ru/) - digital ecosystem for a global real estate agency operating in 17 countries and managing a database of 300,000 properties. The platform includes the integration of a cryptocurrency payment system, smart contracts for transaction automation, real estate tokenization, and interaction with a multi-chain infrastructure.
 
 ## 🏅 Certificates:
 
