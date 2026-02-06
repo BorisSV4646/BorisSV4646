@@ -28,6 +28,11 @@ Hello everyone. My name is Boris, I am a blockchain and backend developer. He pa
 
 ## 🏅 Certificates:
 
+[Chainlink Bootcamp 2024](https://collectors.poap.xyz/token/7060167)
+[Encode EVM Bootcamp](https://opensea.io/assets/matic/0xdbf2138593aec61d55d86e80b8ed86d7b9ba51f5/12772)
+[Expert Solidity](https://opensea.io/assets/matic/0xdbf2138593aec61d55d86e80b8ed86d7b9ba51f5/12362)
+[Zero2Hero Bootcamp](https://drive.google.com/file/d/1zP7uQ4fIjbMJ7B8gWy6DUJ8ybC_Jp_0K/view?usp=sharing)
+
 <img src="https://img.shields.io/github/followers/BorisSV4646?label=Follow" style=" float:left, margin-right:10px" />
 
 ---
