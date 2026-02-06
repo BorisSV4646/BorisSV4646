@@ -1,46 +1,18 @@
-## Blockchain and Backend Developer | Solidity, TypeScript, and Rust Specialist
+## Blockchain and Backend Developer | Solidity, Rust, TypeScript specialist
 
 With a passion for building secure, efficient, and scalable decentralized applications, I specialize in blockchain backend development using a diverse and robust tech stack. My core expertise lies in Solidity, TypeScript, and Rust, enabling me to develop smart contracts, decentralized applications (dApps), and backend systems that are both resilient and performant.
 
-## Technologies and Tools:
-
-Solidity: I design and implement smart contracts with a focus on security and efficiency, ensuring that decentralized applications (dApps) run smoothly on the Ethereum blockchain.
-
-### TypeScript & Node.js:
+## 📌 Previously, I served as:
 
 Leveraging TypeScript for its strong typing and scalability, I build robust backend services with Node.js, ensuring fast and reliable application performance.
 
-### Rust:
+## 💡 Skills:
 
 My knowledge of Rust allows me to develop high-performance, memory-safe applications, particularly in the blockchain and systems programming space.
 
-### NestJS:
+## 📂 Portfolio:
 
-I utilize NestJS to create scalable, maintainable server-side applications, providing a solid framework for building efficient, enterprise-grade backend services.
-
-### Hardhat & Waffle:
-
-I employ Hardhat and Waffle for developing, testing, and deploying smart contracts, ensuring they meet the highest standards before being deployed to the blockchain.
-
-### Ethers.js & OpenZeppelin:
-
-With Ethers.js, I interact with the Ethereum blockchain efficiently, while OpenZeppelin provides a solid foundation of secure, community-vetted smart contracts to build upon.
-
-### GraphQL:
-
-I design and implement flexible and efficient APIs using GraphQL, enabling seamless and efficient data retrieval in my applications.
-
-### Redis:
-
-I integrate Redis for caching and real-time data processing, enhancing application speed and performance.
-
-### Databases (MongoDB & PostgreSQL):
-
-Depending on the requirements, I utilize MongoDB for flexible, document-based storage, and PostgreSQL for complex relational data, ensuring optimal data management solutions.
-
-### DevOps (Docker & Git):
-
-I manage development environments and streamline deployment processes using Docker, while Git enables effective version control and collaboration.
+## 🏅 Certificates:
 
 <img src="https://img.shields.io/github/followers/BorisSV4646?label=Follow" style=" float:left, margin-right:10px" />
 
