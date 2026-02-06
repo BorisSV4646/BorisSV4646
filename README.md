@@ -1,14 +1,22 @@
-## Blockchain and Backend Developer | Solidity, Rust, TypeScript specialist
+## 👨🏻‍💻 Blockchain and Backend Developer | Solidity, Rust, TypeScript specialist
 
-With a passion for building secure, efficient, and scalable decentralized applications, I specialize in blockchain backend development using a diverse and robust tech stack. My core expertise lies in Solidity, TypeScript, and Rust, enabling me to develop smart contracts, decentralized applications (dApps), and backend systems that are both resilient and performant.
+Hello everyone. My name is Boris, I am a blockchain and backend developer. He participated in the creation of decentralized exchanges, blockchains and trading bots in EVM networks and in BTC and SOL.
 
 ## 📌 Previously, I served as:
 
-Leveraging TypeScript for its strong typing and scalability, I build robust backend services with Node.js, ensuring fast and reliable application performance.
+Rust and Backend developer in Ordeez. Built smart contracts and Bitcoin integration on Arch (20k+ tx/contract), multi-wallet support, NFT credit and staking (5M USDT), and an arbitration bot (3M USDC) with oracle and Hyperliquid routing.
+
+Head Solidity and Backend developer in Algoritmiclab. Developed the Gasallin referral platform on the BNB Chain (smart contracts for tokens, platforms and teams with a combined turnover of >13 million USDT, a system for registering and distributing rewards for 2,500+ users, authorization through message signing and JWT for ~10 types of wallets, level purchase/reactivation contracts, team creation and a TG bot for 500+ active users), as well as the Stalwart blockchain ecosystem (architecture, proprietary blockchain based on the Cosmos SDK with AI elements, the EVM Stalwart bridge and integration with Solidity/DeFi pools).
+
+Backend developer in Avezor. Designed and scaled the architecture of the platform to work in 17 countries, created and optimized a database for 300,000 properties with fast search, integrated a cryptographic payment system, developed and implemented smart contracts to automate transactions (rent/purchase and sale), implemented an API for integration with external services and developed a multilingual interface with localization for international the audience.
 
 ## 💡 Skills:
 
-My knowledge of Rust allows me to develop high-performance, memory-safe applications, particularly in the blockchain and systems programming space.
+**Rust:** high-performance, memory-safe systems and blockchain components — custom blockchains (Cosmos SDK), bridges (EVM ↔ native), oracles, trading and arbitration bots, integration with Bitcoin and Hyperliquid.
+
+**Solidity:** smart contracts for EVM (Ethereum, BNB Chain) — tokens, referral and staking platforms, NFT credit and staking, multi-wallet auth (sign-in with wallet + JWT), DeFi integrations and automation of rent/sale transactions.
+
+**Backend & infra:** TypeScript/Node.js, NestJS, APIs, DB design and optimization (300k+ records), crypto payments, localization and scaling for multi-region platforms.
 
 ## 📂 Portfolio:
 
